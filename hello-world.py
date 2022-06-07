@@ -1,2 +1,2 @@
 print('Hello nigth-figther ekip merhaba')
-print('Hello nigth-figther ekip nasıl gidiyor dersler')
+print('Hello nigth-figther ekip nasil gidiyor dersler')
